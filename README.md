@@ -4,7 +4,7 @@ Multi-threaded C++ program simulating the work of a barbershop with multiple bar
 
 <b>Purpose</b>
 
-In this programming assignment, we will extend the original so-called sleeping-barber problem to a
+In this program, we extend the original so-called sleeping-barber problem to a
 multiple sleeping barbers problem where many customers visit a barbershop and receive a haircut service
 from any one available among barbers in the shop.
 
